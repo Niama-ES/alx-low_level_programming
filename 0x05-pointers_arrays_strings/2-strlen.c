@@ -7,5 +7,5 @@ while(s[i]!='/0')
 len++;
 i++;
 }
-return len;
+return (len);
 }
